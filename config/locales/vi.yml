@@ -1,3 +1,38 @@
 vi:
-  eng: "Tiếng Anh"
-  vie: "Tiếng Việt"
+  layouts:
+    header:
+      job: "TÌM VIỆC"
+      home: "Trang chủ"
+      gt: "Giới thiệu"
+      page: "Trang"
+      blog: "Blog"
+      contact: "Liên hệ"
+      login: "Đăng nhập"
+      signup_html: <a href="post-job.html" class="btn btn-outline-white border-width-2 d-none d-lg-inline-block">Đăng Ký</a>
+      login_html: <a href="login.html" class="btn btn-primary border-width-2 d-none d-lg-inline-block">Đăng nhập</a>
+    footer:
+      eng: "Tiếng Anh"
+      vie: "Tiếng Việt"
+      xh: "Xu hướng tìm kiếm"
+      design: "Thiết kế Web"
+      tkdh: "Thiết kế đồ họa"
+      front: "Front-End"
+      py: "Python"
+      html: "HTML5"
+      css: "CSS3"
+      search: "JobSearch"
+      gt: "Giới thiệu"
+      ht: "Hỗ trợ"
+      td: "Tuyển dụng"
+      dk: "Điều khoản dịch vụ"
+      dc: "Địa chỉ"
+      school: "Trường Đại học Sư phạm - ĐHĐN"
+      address: "459 Tôn Đức Thắng, Hòa Hiệp Nam, Liên Chiểu, Đà Nẵng"
+      phone: "Tel: 079.220.4642"
+      lh: "Liên hệ"
+      ruby_html: 2019 <strong class="text-white">JobSearch</strong>
+              Đồ Án Thuật Toán. <br>Phan Hoàng Hiếu
+
+  static_pages:
+    home:
+      home_page: "Trang chủ"

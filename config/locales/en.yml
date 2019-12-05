@@ -1,3 +1,38 @@
 en:
-  eng: "English"
-  vie: "Vietnamese"
+  layouts:
+    header:
+      job: "JOB SEARCH"
+      home: "Home page"
+      gt: "Introduction"
+      page: "Pages"
+      blog: "Blogs"
+      contact: "Contact"
+      signup_html: <a href="post-job.html" class="btn btn-outline-white border-width-2 d-none d-lg-inline-block">Sign Up</a>
+      login_html: <a href="login.html" class="btn btn-primary border-width-2 d-none d-lg-inline-block">Login</a>
+    footer:
+      eng: "English"
+      vie: "Vietnamese"
+      xh: "Search trends"
+      design: "Web design"
+      tkdh: "Graphic design"
+      front: "Front-End"
+      py: "Python"
+      html: "HTML5"
+      css: "CSS3"
+      search: "JobSearch"
+      gt: "Introduction"
+      ht: "Support"
+      td: "Recruitment"
+      dk: "Terms of service"
+      dc: "Address"
+      school: "University of Education"
+      address: "459 Ton Duc Thang, Hoa Hiep Nam, Lien Chieu, Da Nang"
+      phone: "Tel: 079.220.4642"
+      lh: "Contact"
+      ruby_html: 2019 <strong class = "text-white"> JobSearch </strong>
+              Algorithm Project. <br> Phan Hoang Hieu
+  static_pages:
+    home:
+      home_page: "Home Page"
+
+

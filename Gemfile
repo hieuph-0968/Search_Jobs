@@ -4,7 +4,14 @@ git_source(:github){|repo| "https://github.com/#{repo}.git"}
 ruby "2.6.1"
 
 gem "bootsnap", ">= 1.4.2", require: false
+gem "bootstrap-sass", "3.3.7"
+gem "bootstrap-will_paginate"
+gem "faker"
+gem "figaro"
+gem "font-awesome-rails"
+gem "font-awesome-sass", "~> 5.11.2"
 gem "jbuilder", "~> 2.7"
+gem "jquery-rails"
 gem "mysql2", ">= 0.4.4"
 gem "puma", "~> 4.1"
 gem "rails", "~> 6.0.1"
